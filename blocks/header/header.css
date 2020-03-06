@@ -1,0 +1,10 @@
+@import url(./__toogle-link/header__toogle-link.css);
+@import url(./__logo/header__logo.css);
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 30px 0 48px;
+}

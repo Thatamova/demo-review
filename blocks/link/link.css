@@ -1,0 +1,9 @@
+@import url(./_non-underline/link_non-underline.css);
+
+.link {
+    color: #fff;
+}
+
+.link:hover {
+    opacity: 0.8;
+}

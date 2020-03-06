@@ -1,0 +1,9 @@
+.card__text {
+    padding-bottom: 36px;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.card__text:last-child {
+    padding-bottom: 0;
+}

@@ -1,0 +1,7 @@
+.video__description {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    color: #fff;
+    z-index: 1;
+}

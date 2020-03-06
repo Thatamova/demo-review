@@ -1,0 +1,13 @@
+@import url(./__img/comment__img.css);
+@import url(./__text/comment__text.css);
+@import url(./__name/comment__name.css);
+
+.comment {
+    width: 33%;
+    max-width: 382px;
+    padding-right: 18px;
+}
+
+.comment:last-child {
+    padding-right: 0;
+}

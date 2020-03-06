@@ -1,0 +1,7 @@
+@import url(./__title.css/section__title.css);
+@import url(./__subtitle.css/subtitle.css);
+@import url(./_centered/section_centered.css);
+
+.section {
+    margin-bottom: 102px;
+}
